@@ -7,12 +7,12 @@ export class MyLoader extends Component {
       <div className="MyLoader">
         <MagnifyingGlass
           visible={true}
-          height="240"
-          width="240"
+          height="160"
+          width="160"
           ariaLabel="MagnifyingGlass-loading"
           wrapperStyle={{}}
           wrapperClass="MagnifyingGlass-wrapper"
-          glassColor="#c0efff"
+          glassColor="#e0e0e0"
           color="#3f51b5"
         />
       </div>
